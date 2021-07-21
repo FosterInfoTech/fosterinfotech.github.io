@@ -160,7 +160,7 @@ input {
 
 #header .top-header .header-navigation ul li.menu-item-has-children a:after {
 	content: "\f0d7";
-	font-family: "FontAwesome";
+	font-family: "Font Awesome 5 Free";
 	font-size: 16px;
 	position: absolute;
 	top: 0;
@@ -1549,7 +1549,7 @@ input {
 
 .widget ul li:before {
 	content: "\f105";
-	font-family: "FontAwesome";
+	font-family: "Font Awesome 5 Free";
 	color: #f1d204;
 	position: absolute;
 	left: 0;
@@ -1682,7 +1682,7 @@ input {
 	margin-right: 10px;
 	padding: 0;
 	border: none;
-	font-family: "FontAwesome";
+	font-family: "Font Awesome 5 Free";
 	color: #000;
 	float: left;
 }
